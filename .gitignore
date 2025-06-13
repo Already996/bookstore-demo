@@ -1,0 +1,9 @@
+# ---> Java
+target/
+out/
+*.class
+
+# IntelliJ / Eclipse
+.idea/
+.settings/
+*.iml
